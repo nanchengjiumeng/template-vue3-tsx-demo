@@ -1,7 +1,7 @@
 {
   "name": "template-vue3-tsx-demo",
   "version": "0.0.1",
-  "description": "一套基于vue3、、typesScript、vite4的demo模板。",
+  "description": "一套基于vue3、typesScript、vite4的demo模板。",
   "author": "Ricardo <1443837536@qq.com>",
   "private": false,
   "scripts": {
